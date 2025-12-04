@@ -52,7 +52,7 @@ namespace RussoBarberisPriotti_GestorArchivos.src.ReadFile
                 return;
             }
 
-            string fileName = lbFiles.SelectedItem.ToString();
+            string fileName = lbFiles.SelectedItem!.ToString()!;
             string filePath = Path.Combine(FolderPath, fileName);
             LoadFile(filePath);
         }

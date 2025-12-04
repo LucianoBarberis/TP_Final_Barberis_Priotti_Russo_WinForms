@@ -52,7 +52,7 @@ namespace RussoBarberisPriotti_GestorArchivos.src.GeneradorDeReportes
                 return;
             }
 
-            string fileName = lbFiles.SelectedItem.ToString();
+            string fileName = lbFiles.SelectedItem!.ToString()!;
             string filePath = Path.Combine(FolderPath, fileName);
 
             try

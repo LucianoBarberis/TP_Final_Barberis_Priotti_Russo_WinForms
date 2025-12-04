@@ -58,9 +58,9 @@ namespace RussoBarberisPriotti_GestorArchivos.src.Conversor
                 return;
             }
 
-            string fileName = lbFiles.SelectedItem.ToString();
+            string fileName = lbFiles.SelectedItem!.ToString()!;
             string sourcePath = Path.Combine(FolderPath, fileName);
-            string destFormat = cmbDestFormat.SelectedItem.ToString();
+            string destFormat = cmbDestFormat.SelectedItem!.ToString()!;
             string currentExtension = Path.GetExtension(sourcePath).ToLower();
 
             if (destFormat == currentExtension)

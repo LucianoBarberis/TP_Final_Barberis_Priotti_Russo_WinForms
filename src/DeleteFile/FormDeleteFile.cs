@@ -45,7 +45,7 @@ namespace RussoBarberisPriotti_GestorArchivos.src.DeleteFile
                 return;
             }
 
-            string fileName = lbFiles.SelectedItem.ToString();
+            string fileName = lbFiles.SelectedItem!.ToString()!;
             string filePath = Path.Combine(FolderPath, fileName);
             DeleteFile(filePath);
         }
