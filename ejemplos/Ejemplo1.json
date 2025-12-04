@@ -1,0 +1,82 @@
+[
+  {
+    "Legajo": "001",
+    "Apellido": "Barberis",
+    "Nombre": "Luciano",
+    "Dni": "47506740",
+    "Email": "Lbarberis@gmail.com",
+    "Telefono": "344548632"
+  },
+  {
+    "Legajo": "002",
+    "Apellido": "Barberis",
+    "Nombre": "Juan",
+    "Dni": "2434232",
+    "Email": "JBarberis@gmail.com",
+    "Telefono": "3213212"
+  },
+  {
+    "Legajo": "003",
+    "Apellido": "Perez",
+    "Nombre": "Martin",
+    "Dni": "32523343",
+    "Email": "MPerez@gmail.com",
+    "Telefono": "3243532"
+  },
+  {
+    "Legajo": "004",
+    "Apellido": "Barberis",
+    "Nombre": "Mateo",
+    "Dni": "32523334",
+    "Email": "MBarberis@gmail.com",
+    "Telefono": "3242332"
+  },
+  {
+    "Legajo": "005",
+    "Apellido": "Martinez",
+    "Nombre": "Pedro",
+    "Dni": "34343435",
+    "Email": "PMartinez@gmail.com",
+    "Telefono": "343646545"
+  },
+  {
+    "Legajo": "006",
+    "Apellido": "Priotti",
+    "Nombre": "Lautaro",
+    "Dni": "32453434",
+    "Email": "LPriotti@gmail.com",
+    "Telefono": "3245343"
+  },
+  {
+    "Legajo": "007",
+    "Apellido": "Russo",
+    "Nombre": "Nazareno",
+    "Dni": "3253432",
+    "Email": "NRusso@gmail.com",
+    "Telefono": "32425343"
+  },
+  {
+    "Legajo": "008",
+    "Apellido": "Priotti",
+    "Nombre": "Juan",
+    "Dni": "44454654",
+    "Email": "JPriotti@gmail.com",
+    "Telefono": "3245432"
+  },
+  {
+    "Legajo": "009",
+    "Apellido": "Perez",
+    "Nombre": "Joaquin",
+    "Dni": "23245343",
+    "Email": "JPerez2@gmail.com",
+    "Telefono": "3232534"
+  },
+  {
+    "Legajo": "010",
+    "Apellido": "Rodriguez",
+    "Nombre": "Bruno",
+    "Dni": "32423232",
+    "Email": "BRodriguez@gmail.com",
+    "Telefono": "32132123"
+  }
+]
