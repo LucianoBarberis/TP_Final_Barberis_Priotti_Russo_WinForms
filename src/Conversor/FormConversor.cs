@@ -99,7 +99,7 @@ namespace RussoBarberisPriotti_GestorArchivos.src.Conversor
                 }
 
                 MessageBox.Show("Conversión finalizada exitosamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                LoadFileList(); // Refresh list to show potentially new file (though likely overwrites or same name different ext)
+                LoadFileList();
             }
             catch (Exception ex)
             {
